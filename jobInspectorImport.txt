@@ -1,0 +1,141 @@
+Microsoft (R) COFF/PE Dumper Version 14.00.24215.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file E:\Work\Perfactory3.0\job_inspector_color_select\bin\trunk\x64\Debug\Perfactory Job Inspector\Perfactory Job Inspector.exe
+
+File Type: EXECUTABLE IMAGE
+
+  Section contains the following imports:
+
+    mfc140ud.dll
+             140791290 Import Address Table
+             140794EB8 Import Name Table
+                     0 time date stamp
+                     0 Index of first forwarder reference
+
+                             Ordinal  3726
+                             Ordinal  2951
+                             Ordinal  4968
+                             Ordinal  1519
+                             Ordinal  5414
+                             Ordinal 14436
+                             Ordinal  7244
+                             Ordinal  6642
+                             Ordinal 14402
+                             Ordinal  2330
+                             Ordinal  6184
+                             Ordinal   994
+                             Ordinal  5622
+                             Ordinal  1857
+                             Ordinal  8104
+                             Ordinal  1803
+                             Ordinal  1820
+                             Ordinal  6304
+                             Ordinal  2652
+                             Ordinal   862
+                             Ordinal  1450
+                             Ordinal  1028
+                             Ordinal  9892
+                             Ordinal 16619
+                             Ordinal 16835
+                             Ordinal 14109
+                             Ordinal 16782
+                             Ordinal  5237
+                             Ordinal  9677
+                             Ordinal   269
+                             Ordinal  2628
+                             Ordinal  9592
+                             Ordinal  1542
+                             Ordinal  9141
+                             Ordinal  8356
+                             Ordinal   515
+                             Ordinal  6456
+                             Ordinal 14587
+                             Ordinal  1232
+                             Ordinal  5936
+                             Ordinal  3475
+                             Ordinal  3481
+                             Ordinal  3413
+                             Ordinal  8357
+                             Ordinal   522
+                             Ordinal  1233
+                             Ordinal 16573
+                             Ordinal 14344
+                             Ordinal 16579
+                             Ordinal  7943
+                             Ordinal   292
+                             Ordinal  1628
+                             Ordinal  1634
+                             Ordinal  2497
+                             Ordinal  2736
+                             Ordinal  2734
+                             Ordinal  7889
+                             Ordinal  1453
+                             Ordinal  1638
+                             Ordinal   866
+                             Ordinal 14982
+                             Ordinal  2924
+                             Ordinal  4931
+                             Ordinal  4362
+                             Ordinal  1839
+                             Ordinal  1863
+                             Ordinal  5035
+                             Ordinal  6914
+                             Ordinal  9517
+                             Ordinal  3493
+                             Ordinal   302
+                             Ordinal   291
+                             Ordinal   286
+                             Ordinal  1133
+                             Ordinal  1649
+                             Ordinal  1651
+                             Ordinal  1652
+                             Ordinal  1916
+                             Ordinal  1919
+                             Ordinal  1914
+                             Ordinal  6965
+                             Ordinal  3411
+                             Ordinal 10125
+                             Ordinal 16580
+                             Ordinal 16574
+                             Ordinal 10197
+                             Ordinal  9740
+                             Ordinal  5579
+                             Ordinal   524
+                             Ordinal   520
+                             Ordinal  7444
+                             Ordinal  6520
+                             Ordinal  6528
+                             Ordinal  6525
+                             Ordinal 15465
+                             Ordinal 13546
+                             Ordinal 13545
+                             Ordinal  5008
+                             Ordinal 14864
+                             Ordinal 15661
+                             Ordinal  6916
+                             Ordinal 14055
+                             Ordinal 16784
+                             Ordinal  9904
+                             Ordinal 16624
+                             Ordinal  1937
+                             Ordinal  5562
+                             Ordinal  3366
+                             Ordinal  2885
+                             Ordinal  4883
+                             Ordinal  5941
+
+  Summary
+
+        1000 .00cfg
+        F000 .data
+        1000 .gfids
+       18000 .idata
+       46000 .pdata
+      1FE000 .rdata
+        A000 .reloc
+       6C000 .rsrc
+      38D000 .text
+      1AD000 .textbss
+        1000 .tls
